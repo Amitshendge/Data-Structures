@@ -1,3 +1,10 @@
+'''
+@Author: Amit Shendge
+@Date: 20-10-2021 11:30PM
+@Last Modified by: Amit Shendge
+@Last Modified time: 20-10-2021 11:30PM
+@Title : Strings in Python
+'''
 
 def ing_str(string):
     if string.__len__() >= 3:

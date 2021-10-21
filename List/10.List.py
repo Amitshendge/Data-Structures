@@ -1,4 +1,10 @@
-
+'''
+@Author: Amit Shendge
+@Date: 20-10-2021 2:12PM
+@Last Modified by: Amit Shendge
+@Last Modified time: 20-10-2021 2:12PM
+@Title : List in Python
+'''
 def specified_list(lst):
     result = []
     specified = [0,4,5]

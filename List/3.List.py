@@ -1,4 +1,10 @@
-
+'''
+@Author: Amit Shendge
+@Date: 20-10-2021 2:12PM
+@Last Modified by: Amit Shendge
+@Last Modified time: 20-10-2021 2:12PM
+@Title : List in Python
+'''
 def min(lst):
     temp = lst[0]
     for i in range(1,lst.__len__()):

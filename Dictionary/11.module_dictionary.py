@@ -1,3 +1,10 @@
+'''
+@Author: Amit Shendge
+@Date: 20-10-2021 12:32PM
+@Last Modified by: Amit Shendge
+@Last Modified time: 20-10-2021 12:32PM
+@Title : Dictionary in Python
+'''
 def nested_dict(list):
     new_dict = current = {}
     for name in list:

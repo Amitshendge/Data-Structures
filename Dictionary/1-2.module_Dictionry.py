@@ -1,3 +1,10 @@
+'''
+@Author: Amit Shendge
+@Date: 20-10-2021 12:32PM
+@Last Modified by: Amit Shendge
+@Last Modified time: 20-10-2021 12:32PM
+@Title : Dictionary in Python
+'''
 #1.Sort Dictionary by Values
 def sort_by_Values(dict,reverse = False):
     if reversed == False:

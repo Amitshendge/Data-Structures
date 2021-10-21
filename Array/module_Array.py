@@ -1,3 +1,11 @@
+'''
+@Author: Amit Shendge
+@Date: 20-10-2021 11:32AM
+@Last Modified by: Amit Shendge
+@Last Modified time: 20-10-2021 11:32AM
+@Title : Arrays in Python
+'''
+
 import array as arr
 
 my_array = arr.array('i',[1,2,3,4,5])
